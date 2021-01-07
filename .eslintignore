@@ -1,0 +1,5 @@
+__mocks__/*
+src/serviceWorker.js
+node_modules/
+functions/node_modules/
+build/

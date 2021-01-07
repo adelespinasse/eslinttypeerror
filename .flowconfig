@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/module-deps/test/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+types_first=false
+esproposal.optional_chaining=enable
+sharedmemory.hash_table_pow=21
+
+[strict]
