@@ -1,10 +1,6 @@
-type UndoStackEntry = {
-  description: string,
-};
-
 /**
- * An IdeaGraphController provides operations for updating an IdeaGraph.
+ * Hi
  */
-export class IdeaGraphController {
-  #undoStack: Array<UndoStackEntry>;
+export class Controller {
+  #undoStack: Array<number>;
 }
